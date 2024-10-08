@@ -4,7 +4,7 @@ This project scans electronic devices in the vicinity. It retrieves essential in
 
 ## Features
 
-- **Scan for Electronic Devicese **: The tool scans for all nearby device.
+- **Scan for Electronic Devices**: The tool scans for all nearby device.
 - **Retrieve Network Information**: Provides SSID, signal strength, time, and other relevant information.
 - **Real-Time Updates**: Continuously updates available WiFi networks upon scanning.
 
